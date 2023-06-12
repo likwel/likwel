@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java, Python and JavaScript**
 
-- 👯 I’m looking to collaborate on [TSARATANTANA] Entreprise Management System (https://github.com/likwel/tsaratantana-php)
+- 👯 I’m looking to collaborate on [TSARATANTANA](https://github.com/likwel/tsaratantana-php)
 
 - 🤝 I’m looking for help with **Data Science and Data Engineering**
 
