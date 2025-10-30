@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm AI & Data Engineer and Web Developer (Java - Symfony - JavaScript)</h1>
-<h3 align="center">A passionate developer and passionate data scientist </h3>
+<h3 align="center">A passionate developer and passionate data engineering </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=likwel&label=Profile%20views&color=0e75b6&style=flat" alt="likwel" /> </p>
 
-- 🔭 I’m currently working on [JAVA AI API](https://github.com/likwel/java-ai)
+- 🔭 I’m currently working on [CONSOMYZONE](https://www.consomyzone.com/)
 
-- 🌱 I’m currently learning **Java, Python and JavaScript**
+- 🌱 I’m currently learning **Java Spring Boot, FastAPI, NestJS, ExpressJS and ReactJS**
 
 - 👯 I’m looking to collaborate on [TSARATANTANA](https://github.com/likwel/tsaratantana-php)
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **eliefenohasina@gmail.com**
 
-- 📄 Know about my experiences [Andriatsitohaina Elie Fenohasina](https://www.linkedin.com/in/elie-fenohasina-andriatsitohaina/)
+- 📄 Know about my experiences [Andriatsitohaina Elie Fenohasina](https://elie-fenohasina.onrender.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
