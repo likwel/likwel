@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Elie Fenohasina</h1>
-<h3 align="center">AI & Data Engineer | Fullstack Developer (Java • Symfony • Node.js • React)</h3>
+<h3 align="center">AI & Data Engineer • Backend Architect • SaaS Builder</h3>
 
 <p align="center">
-🚀 Building scalable data systems & SaaS applications <br/>
-📊 Passionate about Data Engineering, Backend Architecture & AI
+🚀 I design scalable data systems & build high-impact SaaS platforms <br/>
+📊 Specialized in Data Engineering, APIs & Intelligent Systems
 </p>
 
 <p align="center">
@@ -14,52 +14,60 @@
 
 ## 🧠 About Me
 
-- 🔭 Currently building **CONSOMYZONE** (Data & Business Platform)
-- 🌱 Learning **Spring Boot, FastAPI, NestJS, Advanced Data Engineering**
-- 👯 Open to collaborate on **Data & SaaS projects**
-- 🤝 Looking to grow in **Data Engineering & AI Systems**
-- 💬 Ask me about **Java, Backend, APIs, Data Pipelines**
-- 📫 Reach me at: **eliefenohasina@gmail.com**
+- 🔭 Currently building **Data Pipeline** → Data-driven business platform  
+- 🧩 Designing **scalable backend architectures**  
+- 🌱 Deepening expertise in **AI Systems, Distributed Systems & Cloud**  
+- 🤝 Open to collaboration on **Data, Fintech & SaaS products**  
+- 💬 Ask me about **Backend, APIs, Data Engineering, System Design**  
+- 📫 Contact: **eliefenohasina@gmail.com**
 
 ---
 
-## 🚀 Projects
-
-- 🔥 **CONSOMYZONE** → https://www.consomyzone.com  
-- 📊 **TSARATANTANA** → https://github.com/likwel/tsaratantana-php  
-- 💼 Portfolio → https://elie-fenohasina.onrender.com/  
+### 💼 Portfolio  
+🔗 https://elie-fenohasina.onrender.com/
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Backend
+### 📊 Data & AI
+- Python (Pandas, Scikit-learn)
+- Data Pipelines & ETL
+- Power BI, Excel
+- Talend
+
+### 💻 Backend & Architecture
+- FastAPI (Python)
 - Java (Spring Boot)
 - Node.js (Express, NestJS)
 - Symfony (PHP)
-- FastAPI (Python)
 
 ### 🎨 Frontend
 - React.js
 - Tailwind CSS
 - Bootstrap
 
-### 🗄️ Database
+### 🗄️ Databases
 - PostgreSQL
 - MySQL
-- MongoDB
 - SQL Server
+- MongoDB
 
-### 📊 Data & AI
-- Python (Pandas, Scikit-learn)
-- TensorFlow / PyTorch
-- OpenCV
-
-### ⚙️ Tools
+### ⚙️ DevOps & Tools
 - Git & GitHub
+- Docker (Containerization)
 - Postman
-- Docker (à ajouter si tu veux 🔥)
 - Firebase
+
+---
+
+## 📊 What I Bring
+
+- 📈 Transform raw data into **actionable insights**
+- ⚡ Build **robust and scalable backend systems**
+- 🔗 Design and integrate **high-performance APIs**
+- 🧠 Combine **data + business logic for real-world impact**
+- 🚀 Develop **SaaS platforms from idea to production**
 
 ---
 
@@ -74,9 +82,6 @@
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
 </a>
 
-<a href="https://instagram.com/elie_fenohsn" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-</a>
 </p>
 
 ---
@@ -92,4 +97,6 @@
 
 ## 🎯 Vision
 
-> Building intelligent systems that combine **data, automation and business value**.
+> I build intelligent systems where **data, automation and software engineering** create real business value.  
+>  
+> Long-term goal: develop **scalable AI-powered platforms** that solve real-world problems in Africa and beyond 🌍
