@@ -74,12 +74,14 @@
 ## 🌐 Connect with me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/elie-fenohasina/" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+<a href="https://www.linkedin.com/in/elie-fenohasina/" target="blank"> 
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="30" />
+Elie Fenohasina ANDRIATSITOHAINA
 </a>
 
 <a href="https://web.facebook.com/profile.php?id=100009201733216" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="30" />
+Hasina Andriatsitohaina
 </a>
 
 </p>
